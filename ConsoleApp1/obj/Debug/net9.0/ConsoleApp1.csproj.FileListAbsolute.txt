@@ -1,0 +1,15 @@
+/home/fuveluck/RiderProjects/game_by_default/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1
+/home/fuveluck/RiderProjects/game_by_default/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.deps.json
+/home/fuveluck/RiderProjects/game_by_default/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.runtimeconfig.json
+/home/fuveluck/RiderProjects/game_by_default/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.dll
+/home/fuveluck/RiderProjects/game_by_default/ConsoleApp1/bin/Debug/net9.0/ConsoleApp1.pdb
+/home/fuveluck/RiderProjects/game_by_default/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/fuveluck/RiderProjects/game_by_default/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfoInputs.cache
+/home/fuveluck/RiderProjects/game_by_default/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.AssemblyInfo.cs
+/home/fuveluck/RiderProjects/game_by_default/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/home/fuveluck/RiderProjects/game_by_default/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.sourcelink.json
+/home/fuveluck/RiderProjects/game_by_default/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.dll
+/home/fuveluck/RiderProjects/game_by_default/ConsoleApp1/obj/Debug/net9.0/refint/ConsoleApp1.dll
+/home/fuveluck/RiderProjects/game_by_default/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.pdb
+/home/fuveluck/RiderProjects/game_by_default/ConsoleApp1/obj/Debug/net9.0/ConsoleApp1.genruntimeconfig.cache
+/home/fuveluck/RiderProjects/game_by_default/ConsoleApp1/obj/Debug/net9.0/ref/ConsoleApp1.dll
